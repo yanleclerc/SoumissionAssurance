@@ -1,0 +1,30 @@
+{
+  "nom": "Jacques Berger",
+  "genre": 2,
+  "date_de_naissance": "1976-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": true,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Cancer",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": ["Arts martiaux", "Baseball"],
+  "employeur": "Université du Québec à Montréal",
+  "numero_contrat": "A2219",
+  "date_embauche": "2009-01-01",
+  "lieu_travail": "Montréal"
+}

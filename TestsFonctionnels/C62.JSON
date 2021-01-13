@@ -1,0 +1,26 @@
+{
+  "nom": "Jacques Berger",
+  "genre": 1,
+  "date_de_naissance": "1996-01-01",
+  "assurance_collective": false,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": true
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Cancer",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2029-01-03"
+    },
+    {
+      "diagnostic": "COVID-20",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": []
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Jacques Berger",
+  "genre": 1,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": false,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": 1
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": 1
+    }
+  ],
+  "sports": ["Arts martiaux", "Baseball"]
+}
