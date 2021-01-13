@@ -1,7 +1,6 @@
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Cette classe permet de déterminer le montant
  * de l'assurance d'une personne selon differents critères.
  */

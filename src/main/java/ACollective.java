@@ -7,8 +7,7 @@ import java.text.DecimalFormat;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Cette classe permet de déterminer si une personne
  * possede une assurance collective et fait la gestion du montant de l'assurance.
  */

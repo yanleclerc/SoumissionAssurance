@@ -2,8 +2,7 @@ import net.sf.json.JSONArray;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Cette classe permet de déterminer si une personne est éligible
  * à l'assurance selon les critères fixés.
  */

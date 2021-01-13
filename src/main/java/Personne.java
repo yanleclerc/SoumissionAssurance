@@ -3,8 +3,7 @@ import net.sf.json.JSONObject;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Objet Personne qui sert à stocker l'information d'un client
  * dans une variable du type Personne.
  */

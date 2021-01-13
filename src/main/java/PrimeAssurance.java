@@ -6,8 +6,7 @@ import java.util.Date;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Ce programme permet de lire un fichier JSON et d'extraire
  * les données d'une soumission pour donner un verdict si le client
  * est admissible ou non .Un fichier de sortie JSON

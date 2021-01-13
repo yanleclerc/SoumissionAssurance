@@ -14,8 +14,7 @@ import java.util.Iterator;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Cette classe transmet d'abord les données du fichier JSON en String
  * et par la suite, les valeurs de l'objet JSONObject dans l'objet Personne.
  */

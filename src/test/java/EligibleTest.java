@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @Author Yan-Alexandre Leclerc
- * @CodePermanent LECY20069604
- * @Version 4 (remise 04-08-20)
+ * @Version 4
  * @Description Cette classe permet d'effectuer plusieurs tests sur la classe
  * Eligible.
  */
